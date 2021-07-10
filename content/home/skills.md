@@ -1,6 +1,6 @@
 ---
 widget: featurette
-widget_id: test
+widget_id: Compétences
 active: true
 feature:
   - description: 90%
@@ -16,8 +16,9 @@ feature:
     icon_pack: fas
     name: Photography
 headless: true
-weight: 60
+weight: 40
 title: Compétences
 subtitle: null
+design:
+  columns: "3"
 ---
-test
