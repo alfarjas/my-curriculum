@@ -1,11 +1,10 @@
 ---
 role: Développeur Web Fullstack
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Mes centres d'intérêts résidents dans le développement de nouveaux projets innovateurs dans le web, l'intelligence artificielle.
 interests:
   - Développement de solutions Web
   - Algorithmes orientés I.A.
-  - Framework
+  - Nouveaux Frameworks
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,8 +29,8 @@ education:
 superuser: true
 highlight_name: false
 title: Alexandre Farjas
-email: ""
+email: "alexandre.farjas@gmail.com"
 ---
 Je suis depuis septembre 2021 un développeur Web Fullstack à la recherche d'un emploi dans l'objectif de découvrir de nouvelles technologies, ou encore d'approfondir mes connaissances. J'ai évolué au sein de l'université Clermont-Auvergne en finissant ma formation par une Licence Professionnelle dans le développement Web, qui m'as semblé logique étant fortement motivé dans ce domaine.
 
-{{< icon name="download" pack="fas" >}} Téléchargez mon CV {{< staticref "uploads/demo_resume.pdf" "newtab" >}}ici{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Téléchargez mon CV {{< staticref "uploads/resume.pdf" "newtab" >}}ici{{< /staticref >}}.

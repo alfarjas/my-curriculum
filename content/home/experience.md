@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Expériences
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Développeur Fullstack
+    company: Agiir Network
+    company_url: 'https://agiir-network.com/'
+    company_logo: agiir
+    location: Roanne, Auvergne-Rhônes-Alpes
+    date_start: '2020-09-01'
+    date_end: '2021-08-31'
     description: |2-
-        Responsibilities include:
+        Responsabilités dans l'entreprise :
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * L'analyse/rédaction de mémoires suite à des appels d'offres (publiques)
+        * Modélisation de projets en Liferay
+        * Réalisations de phase de tests avant déployements
+        * Executant AngularJS pour Prévisoft, nouveaux développements
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Développeur Junior
+    company: Agiir Network
+    company_url: 'https://agiir-network.com/'
+    company_logo: agiir
+    location: Roanne, Auvergne-Rhônes-Alpes
+    date_start: '2020-04-01'
+    date_end: '2020-06-30'
+    description: Création d'un module de réservation de ressources en Liferay, incluant JavaEE (backend) et ReactJS (frontend).
 
 design:
   columns: '2'
