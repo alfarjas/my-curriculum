@@ -1,11 +1,11 @@
 ---
-role: Professor of Artificial Intelligence
+role: Développeur Web Fullstack
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Développement de solutions Web
+  - Algorithmes orientés I.A.
+  - Framework
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,9 +41,6 @@ highlight_name: false
 title: Alexandre Farjas
 email: ""
 ---
+Je suis depuis septembre 2021 un développeur Web Fullstack à la recherche d'un emploi dans l'objectif de découvrir de nouvelles technologies, ou encore d'approfondir mes connaissances. J'ai évolué au sein de l'université Clermont-Auvergne en finissant ma formation par une Licence Professionnelle dans le développement Web, qui m'as semblé logique étant fortement motivé dans ce domaine.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Téléchargez mon CV {{< staticref "uploads/demo_resume.pdf" "newtab" >}}ici{{< /staticref >}}.
